@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "Seed Node",
+      "url": "176.57.189.177",
+      "port": 22101,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Seed Node",
+      "url": "62.171.158.41",
+      "port": 22101,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Seed Node",
+      "url": "84.27.218.58",
+      "port": 22101,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
