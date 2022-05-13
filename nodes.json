@@ -2,21 +2,21 @@
   "nodes": [
     {
       "name": "Main Seed Node",
-      "url": "176.57.189.177",
+      "url": "node1.snowflake-net.com",
       "port": 22101,
       "ssl": false,
       "cache": false
     },
     {
       "name": "Second Seed Node",
-      "url": "173.212.251.144",
+      "url": "node2.snowflake-net.com",
       "port": 22101,
       "ssl": false,
       "cache": false
     },
     {
       "name": "Backup Seed Node",
-      "url": "84.27.218.58",
+      "url": "node3.snowflake-net.com",
       "port": 22101,
       "ssl": false,
       "cache": false
