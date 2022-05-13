@@ -1,21 +1,21 @@
 {
   "nodes": [
     {
-      "name": "Seed Node",
+      "name": "Main Seed Node",
       "url": "176.57.189.177",
       "port": 22101,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "Seed Node",
-      "url": "62.171.158.41",
+      "name": "Second Seed Node",
+      "url": "173.212.251.144",
       "port": 22101,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "Seed Node",
+      "name": "Backup Seed Node",
       "url": "84.27.218.58",
       "port": 22101,
       "ssl": false,
