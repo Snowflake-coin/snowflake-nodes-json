@@ -20,6 +20,13 @@
       "port": 22101,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "Radioactive Node",
+      "url": "radioactive.sytes.net",
+      "port": 22101,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
